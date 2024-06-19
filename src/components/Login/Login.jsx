@@ -43,7 +43,7 @@ export const Login = () => {
           value={form.email}
           onChange={handleInput}
         />
-        <label className='form-label' htmlFor="">Contrasena</label>
+        <label className='form-label' htmlFor="">Contraseña</label>
         <input
           className='form-input'
           type="password"
